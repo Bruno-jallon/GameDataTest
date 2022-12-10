@@ -96,7 +96,7 @@ app.layout = html.Div(children=[
           ], className="p-2")  
         ],sm=3),
 
-#Organização/apresentação dos Gráficos
+#Organização/apresentação dos Gráficos XD
 
         dbc.Col([
             dbc.Row([
